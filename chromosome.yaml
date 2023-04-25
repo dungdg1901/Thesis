@@ -1,0 +1,10 @@
+train: data_split_7_1.5_1.5/images/train
+val:  data_split_7_1.5_1.5/images/val
+test: data_split_7_1.5_1.5/images/test
+
+is_coco: False
+# number of classes
+nc: 24
+
+# class names
+names: ["A1", "A2", "A3", "B4", "B5", "C6", "C7", "C8", "C9", "C10", "C11", "C12", "D13", "D14", "D15", "E16", "E17", "E18", "F19", "F20", "G21", "G22", "X", "Y"]
